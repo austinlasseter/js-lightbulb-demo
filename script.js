@@ -1,3 +1,3 @@
-function myFunction() {
- document.getElementById("demo").src='pic_bulbon.gif';
+function myFunctionOn() {
+ document.getElementById("OnButton").src='pic_bulbon.gif';
 }
